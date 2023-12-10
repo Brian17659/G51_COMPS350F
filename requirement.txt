@@ -1,0 +1,6 @@
+1. install the  xampp
+
+2. Open the xampp
+
+3. Start the Apache and MySQL
+
