@@ -15,3 +15,16 @@
 8. Run the http://localhost/G51studentas/
 
 9. Read the Test case in Testing plan report
+
+		Admin:
+Username: admin
+Password: Test@123
+
+		Student:
+
+Username: anujk3
+Password: 1234
+
+		Teacher:
+Username: qwe
+Password: 1234
